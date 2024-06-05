@@ -1,2 +1,2 @@
 # Hwyr2.0
-Collab with sohiel shahrab
+C++ long GDI trojan by red-wipet and soheil shahrab
